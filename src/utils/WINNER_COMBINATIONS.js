@@ -1,4 +1,4 @@
-const winner_board = [
+const WINNER_COMBINATIONS = [
   [0, 1, 2],
   [3, 4, 5],
   [6, 7, 8],
@@ -9,4 +9,4 @@ const winner_board = [
   [2, 4, 6]
 ]
 
-export default winner_board
+export default WINNER_COMBINATIONS
